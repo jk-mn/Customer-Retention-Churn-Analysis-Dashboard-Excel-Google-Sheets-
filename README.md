@@ -30,8 +30,4 @@ The dashboard is suitable for subscription-based businesses, SaaS, e-commerce, a
 * Subscription plan breakdown
 * CLV and support load distribution analysis
 
-## Screenshots
 
-![Dashboard Page 1](dashboard-page-1.png)
-
-![Dashboard Page 2](dashboard-page-2.png)
